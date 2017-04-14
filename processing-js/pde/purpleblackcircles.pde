@@ -5,7 +5,7 @@ float diam = 40;
 void setup() {
   size(800, 800);
   background(#D6D8FC);
-  loop(50);
+  loop();
 }
 
 void draw() {
